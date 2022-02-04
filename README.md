@@ -1,1 +1,1 @@
-# PureCSS_slider
+This is an image slider created using pure CSS.
